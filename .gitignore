@@ -1,0 +1,4 @@
+data/
+.venv_kaggle
+.ipynb_checkpoints
+__pycache__
