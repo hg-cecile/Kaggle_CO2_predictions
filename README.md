@@ -1,4 +1,4 @@
-### Kaggle Competition : Estimate CO2 emissions from cars
+## Kaggle Competition : Estimate CO2 emissions from cars
 
 Dans le cadre du cours de Data Mining durant le Master 2 MoSEF Data Science, nous avons fait une compétition `Kaggle : Estimate CO2 emissions from cars`. Le but était de prédire la variable * Ewltp (g/km) * qui correspond aux émissions de CO2 d'une voiture (WLTP). 
 
@@ -8,7 +8,7 @@ L'intérêt de ce challenge était avant tout de comprendre la donnée et de ré
 
 Classement final : 2ème sur 16 équipes.
 
-### Contact
+## Contact
 
 - [Cécile Huang](https://github.com/hg-cecile) - cecilehg@yahoo.com
 - [Alice Liu](https://github.com/alice-l1) - alice_liu015@yahoo.com
