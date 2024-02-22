@@ -4,7 +4,7 @@ Dans le cadre du cours de Data Mining durant le Master 2 MoSEF Data Science, nou
 
 La base de données mise à disposition était de 7571649 observations et 37 variables pour le fichier *train* et 1892913 observations et 36 variables pour le fichier *test*.
 
-L'intérêt de ce challenge était avant tout de comprendre la donnée et de réaliser un nettoyage de données (préprocessing), pour ensuite appliquer un modèle de Machine Learning afin de prédire notre cible. La métrique à minimiser était la MAE (Mean Absolute Error).
+L'intérêt de ce challenge était avant tout de comprendre la donnée et de réaliser un nettoyage de données (préprocessing) en passant par l'imputation des valeurs manquantes, l'encoding des variables catégorielles, le traitements des outliers etc... Pour ensuite tester plusieurs modèles de Machine Learning adéquats à nos données, et de choisir le bon modèle afin de prédire notre cible. La métrique à minimiser était la MAE (Mean Absolute Error).
 
 Classement final : 2ème sur 16 équipes.
 
